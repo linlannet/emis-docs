@@ -1,36 +1,79 @@
 # emis-docs
 
-#### Description
 EMIS 多身份管理系统使用指南文档工程
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+## Introduction
 
 
-#### Gitee Feature
+## Change Log
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[CHANGELOG](./CHANGELOG.md)
+
+## Features
+
+
+
+## Preview
+
+
+
+## Preparation
+
+- [node](http://nodejs.org/) and [git](https://git-scm.com/) - Project development environment
+- [Vite](https://vitejs.dev/) - Familiar with vite features
+- [Vue3](https://v3.vuejs.org/) - Familiar with Vue basic syntax
+- [TypeScript](https://www.typescriptlang.org/) - Familiar with the basic syntax of `TypeScript`
+- [Es6+](http://es6.ruanyifeng.com/) - Familiar with es6 basic syntax
+- [Vue-Router-Next](https://next.router.vuejs.org/) - Familiar with the basic use of vue-router
+- [Ant-Design-Vue](https://antdv.com/docs/vue/introduce-cn/) - ui basic use
+- [Mock.js](https://github.com/nuysoft/Mock) - mockjs basic syntax
+
+## Install and use
+
+- Get the project code
+
+```bash
+git clone https://gitee.com/linlannet/emis-docs.git
+```
+
+- Install dependencies
+
+```bash
+cd emis-docs
+
+pnpm install
+
+```
+
+- run
+
+```bash
+pnpm serve
+```
+
+- build
+
+```bash
+pnpm build
+```
+
+## Project
+
+- [emis-docs](https://gitee.com/linlannet/emis-docs) - full version
+
+## How to contribute
+
+You are very welcome to join！[Raise an issue](https://gitee.com/linlannet/emis-docs/issues/new/choose) or submit a Pull Request。
+
+**Pull Request:**
+
+1. Fork code!
+2. Create your own branch: `git checkout -b feat/xxxx`
+3. Submit your changes: `git commit -am 'feat(function): add xxxxx'`
+4. Push your branch: `git push origin feat/xxxx`
+5. submit`pull request`
+
+## License
+
+[Apache 2.0 © emis-docs 2023](./LICENSE)
+
