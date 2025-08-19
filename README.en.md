@@ -1,6 +1,6 @@
 # emis-docs
 
-EMIS 多身份管理系统使用指南文档工程
+EMIS (Enterprise Multiple Identity System) User Guide Document Engineering
 
 ## Introduction
 
@@ -71,7 +71,7 @@ You are very welcome to join！[Raise an issue](https://gitee.com/linlannet/emis
 2. Create your own branch: `git checkout -b feat/xxxx`
 3. Submit your changes: `git commit -am 'feat(function): add xxxxx'`
 4. Push your branch: `git push origin feat/xxxx`
-5. submit`pull request`
+5. Submit`pull request`
 
 ## License
 

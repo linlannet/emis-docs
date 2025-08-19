@@ -29,13 +29,13 @@ EMIS 多身份管理系统使用指南文档工程
 
 ## 安装和使用
 
-- Get the project code
+- 获取项目代码
 
 ```bash
 git clone https://gitee.com/linlannet/emis-docs.git
 ```
 
-- Install dependencies
+- 安装依赖
 
 ```bash
 cd emis-docs
@@ -44,13 +44,13 @@ pnpm install
 
 ```
 
-- run
+- 调试运行
 
 ```bash
-pnpm serve
+pnpm run dev
 ```
 
-- build
+- 打包发布
 
 ```bash
 pnpm build
@@ -58,15 +58,15 @@ pnpm build
 
 ## 参与贡献
 
-You are very welcome to join！[Raise an issue](https://gitee.com/linlannet/emis-docs/issues/new/choose) or submit a Pull Request。
+欢迎你的加入！[提交 issue](https://gitee.com/linlannet/emis-docs/issues/new/choose) 或者提交拉取请求。
 
-**Pull Request:**
+**拉取请求步骤:**
 
-1. Fork code!
-2. Create your own branch: `git checkout -b feat/xxxx`
-3. Submit your changes: `git commit -am 'feat(function): add xxxxx'`
-4. Push your branch: `git push origin feat/xxxx`
-5. submit`pull request`
+1. Fork 代码仓库
+2. 创建你自己的分支: `git checkout -b feat/xxxx`
+3. 提交你的代码: `git commit -am 'feat(function): add xxxxx'`
+4. 推送你的分支到本仓库: `git push origin feat/xxxx`
+5. 发布`pull request`
 
 ## 版权
 

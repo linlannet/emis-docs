@@ -1,3 +1,11 @@
+### 版本号：1.1.1
+- 更新日期：2025-08-19
+- 更新内容：
+1. 增加SUMMARY、allguide、overview-platform文件
+2. 增加faq目录
+3. 增加sdk目录
+4. 增加authentication目录
+
 ### 版本号：1.1.0
 - 更新日期：2025-08-18
 - 更新内容：
