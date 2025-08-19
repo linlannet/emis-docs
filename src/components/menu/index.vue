@@ -10,73 +10,68 @@ interface Tree {
 const emits = defineEmits(['menuClick'])
 const handleNodeClick = (data: Tree) => {
   console.log(data)
-  emits('menuClick',data)
+  emits('menuClick', data)
 }
 
 const data: Tree[] = [
   {
-    label: '概述',
+    label: "What's new",
+    url: '../docs/README.md',
+  },
+  {
+    label: "文档使用指南",
+    url: '../docs/allguide.md',
+  },
+  {
+    label: '系统全景图',
+    url: '../docs/overview-platform.md',
     children: [
       {
-        label: '产品介绍',
-        url:'../docs/overview/introduction.md'
+        label: '专业术语',
+        url: '../docs/overview/term.md'
+      },
+      {
+        label: '系统简介',
+        url: '../docs/overview/introduction.md'
       },
       {
         label: '系统架构',
-        url:'../docs/overview/architecture.md'
+        url: '../docs/overview/architecture.md'
       },
       {
-        label: '专业术语',
-        url:'../docs/overview/term.md'
+        label: '安全特性',
+        url: '../docs/overview/security.md'
       },
       {
-        label: '安全可用',
-        url:'../docs/overview/security.md'
+        label: '信创支持',
+        url: '../docs/overview/innovation.md'
+      },
+      {
+        label: '系统荣誉',
+        url: '../docs/overview/honors.md'
       }
     ],
   },
   {
-    label: 'Level one 2',
+    label: '产品简介',
+    url: '../docs/guide/README.md',
     children: [
       {
-        label: 'Level two 2-1',
-        children: [
-          {
-            label: 'Level three 2-1-1',
-          },
-        ],
+        label: '管理控制台',
+        children: [{
+          label: '登录',
+          url: '../docs/guide/console/login.md'
+        }, {
+          label: '总览',
+          url: '../docs/guide/console/workspace.md'
+        }]
       },
       {
-        label: 'Level two 2-2',
-        children: [
-          {
-            label: 'Level three 2-2-1',
-          },
-        ],
-      },
-    ],
-  },
-  {
-    label: 'Level one 3',
-    children: [
-      {
-        label: 'Level two 3-1',
-        children: [
-          {
-            label: 'Level three 3-1-1',
-          },
-        ],
-      },
-      {
-        label: 'Level two 3-2',
-        children: [
-          {
-            label: 'Level three 3-2-1',
-          },
-        ],
-      },
-    ],
-  },
+        label: '门户工作台',
+        url: '../docs/overview/introduction.md'
+      }
+    ]
+  }
 ]
 
 const defaultProps = {
