@@ -1,7 +1,7 @@
 # 钉钉认证
 EMIS 支持政府、事业单位、企业等组织机构以多种认证源渠道登录至 EMIS 平台，本节将介绍如何在 EMIS 平台中配置钉钉新版 OAuth2 认证
 
-![钉钉企业认证源](/src/assets/img/authentication-ent-list.png "钉钉企业认证源")
+![钉钉企业认证源](/assets/img/authentication-ent-list.png "钉钉企业认证源")
 
 ## 在钉钉开放平台上创建应用
 在钉钉开放平台上创建应用，并通过配置 EMIS 的授权信息，可以建立钉钉对 EMIS 的信任。
@@ -43,4 +43,4 @@ EMIS 支持政府、事业单位、企业等组织机构以多种认证源渠道
 |是否显示	|是否在 EMIS 多身份集成管理系统登录页显示认证源|
 |备注	|认证源备注信息|
 
-![钉钉企业认证源配置](/src/assets/img/authentication-ent-dingding.png "钉钉企业认证源配置")
+![钉钉企业认证源配置](/assets/img/authentication-ent-dingding.png "钉钉企业认证源配置")

@@ -1,7 +1,7 @@
 # 钉钉身份源
 EMIS 支持政府、事业单位、企业等组织机构以多种身份源渠道导入用户和组织机构信息至 EMIS 平台，本节将介绍如何在 EMIS 平台中配置钉钉身份源，实现组织机构和用户数据的实时同步。
 
-![钉钉身份源管理](/src/assets/img/identity-source-dingding-list.png "钉钉身份源管理")
+![钉钉身份源管理](/assets/img/identity-source-dingding-list.png "钉钉身份源管理")
 
 ## 创建钉钉应用
 在钉钉开放平台中创建小程序并配置参数，确保钉钉中的数据可同步至EMIS系统。
@@ -25,7 +25,7 @@ EMIS 支持政府、事业单位、企业等组织机构以多种身份源渠道
 |签名 Token	|在钉钉开放平台应用详情的「事件与回调」页面获取签名 token。如果你需要开启实时同步，此参数必填|
 |回调地址	|在钉钉开放平台应用详情的「事件与回调」页面中配置的请求网址，实时同步使用|
 
-![钉钉身份源同步配置](/src/assets/img/identity-source-dingding-synchronize.png "钉钉身份源同步配置")
+![钉钉身份源同步配置](/assets/img/identity-source-dingding-synchronize.png "钉钉身份源同步配置")
 
 ### 高级配置
 配置组织和用户的的同步策略
@@ -44,8 +44,8 @@ EMIS 支持政府、事业单位、企业等组织机构以多种身份源渠道
 
 ## 同步历史
 
-![钉钉身份源同步历史](/src/assets/img/identity-source-dingding-history.png "钉钉身份源同步历史")
+![钉钉身份源同步历史](/assets/img/identity-source-dingding-history.png "钉钉身份源同步历史")
 
 ## 事件记录
 
-![钉钉身份源事件记录](/src/assets/img/identity-source-dingding-event.png "钉钉身份源事件记录")
+![钉钉身份源事件记录](/assets/img/identity-source-dingding-event.png "钉钉身份源事件记录")

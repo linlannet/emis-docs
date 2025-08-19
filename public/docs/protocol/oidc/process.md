@@ -4,7 +4,7 @@
 
 2. 前往 应用管理-添加应用-标准协议，点击 OIDC 模板。
 
-![OIDC模板](/src/assets/img/protocol-oidc-template.png "OIDC模板")
+![OIDC模板](/assets/img/protocol-oidc-template.png "OIDC模板")
 
 
 3. 确认应用名称，即可完成添加。
@@ -22,7 +22,7 @@
 |IDP SSO地址	|应用发起单点登录的地址。|
 |OIDC 验签
 
-![OIDC应用配置](/src/assets/img/protocol-oidc-appconfig.png "OIDC应用配置")
+![OIDC应用配置](/assets/img/protocol-oidc-appconfig.png "OIDC应用配置")
 
 ## 协议配置
 
@@ -37,10 +37,10 @@
 |logout url	|否	|业务系统中在 OIDC SSO 成功登出后的 URL，此项可选。|
 
 
-![OIDC协议配置](/src/assets/img/protocol-oidc-protocol.png "OIDC协议配置")
+![OIDC协议配置](/assets/img/protocol-oidc-protocol.png "OIDC协议配置")
 
 
 ## 访问授权配置信息
 
-![OIDC访问授权选择](/src/assets/img/protocol-oidc-access.png "OIDC访问授权选择")
+![OIDC访问授权选择](/assets/img/protocol-oidc-access.png "OIDC访问授权选择")
 

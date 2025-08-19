@@ -3,7 +3,7 @@
 
 在密码策略中可以设置相应的密码复杂度、相应的锁定解锁策略，还可以设置是否允许与历史密码重复等高级策略。同时，可以通过“开启弱密码字典库”来检查密码的安全强度。
 
-![密码策略](/src/assets/img/c-1.7-security-password-setting.png "密码策略")
+![密码策略](/assets/img/c-1.7-security-password-setting.png "密码策略")
 
 
 |参数	|说明|

@@ -1,7 +1,7 @@
 # 存储配置
 管理员对系统文件存储服务商进行配置。存储服务商目前支持阿里云，腾讯云，七牛云，MinIo，S3
 
-![存储供应商](/src/assets/img/c-1.8-setting-storage.png "存储供应商")
+![存储供应商](/assets/img/c-1.8-setting-storage.png "存储供应商")
 
 ## 阿里云
 
@@ -17,7 +17,7 @@
 
 阿里云账号 AccessKey 拥有所有 API 的访问权限，风险很高。强烈建议您创建并使用 RAM 用户进行 API 访问或日常运维，请登录 RAM 控制台创建 RAM 用户。
 
-![阿里云存储设置](/src/assets/img/c-1.8-setting-storage-config.png "阿里云存储设置")
+![阿里云存储设置](/assets/img/c-1.8-setting-storage-config.png "阿里云存储设置")
 
 ## 腾讯云
 

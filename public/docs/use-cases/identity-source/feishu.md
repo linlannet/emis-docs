@@ -1,7 +1,7 @@
 #飞书身份源
 EMIS 支持政府、事业单位、企业等组织机构以多种身份源渠道导入用户和组织机构信息至 EMIS 平台，本节将介绍如何在 EMIS 平台中配置飞书身份源，实现组织机构和用户数据的实时同步。
 
-![飞书身份源管理](/src/assets/img/identity-source-feishu-list.png "飞书身份源管理")
+![飞书身份源管理](/assets/img/identity-source-feishu-list.png "飞书身份源管理")
 
 ## 创建飞书应用
 在飞书开放平台中创建应用并配置参数，确保飞书中的数据可同步至EMIS系统。
@@ -39,7 +39,7 @@ EMIS 支持政府、事业单位、企业等组织机构以多种身份源渠道
 |VerificationToken	|飞书事件订阅的 VerificationToken，可以在飞书开放平台-开发者后台应用详情的「事件订阅」页面获取。如果你需要开启实时同步，此参数必填|
 |VerificationToken	|在飞书开放平台-开发者后台应用详情的「事件订阅」页面中配置的请求地址|
 
-![飞书身份源同步配置](/src/assets/img/identity-source-feishu-synchronize.png "飞书身份源同步配置")
+![飞书身份源同步配置](/assets/img/identity-source-feishu-synchronize.png "飞书身份源同步配置")
 
 ### 高级配置
 配置组织和用户的的同步策略
@@ -60,8 +60,8 @@ EMIS 支持政府、事业单位、企业等组织机构以多种身份源渠道
 
 ## 同步历史
 
-![飞书身份源同步历史](/src/assets/img/identity-source-feishu-history.png "飞书身份源同步历史")
+![飞书身份源同步历史](/assets/img/identity-source-feishu-history.png "飞书身份源同步历史")
 
 ## 事件记录
 
-![飞书身份源事件记录](/src/assets/img/identity-source-feishu-event.png "飞书身份源事件记录")
+![飞书身份源事件记录](/assets/img/identity-source-feishu-event.png "飞书身份源事件记录")

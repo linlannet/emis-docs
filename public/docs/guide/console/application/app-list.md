@@ -5,16 +5,16 @@
 1. 以管理员账号登录 EMIS 管理控制台。
 
 2. 在左侧导航栏，进入应用列表。
-![应用列表](/src/assets/img/c-1.5-appstore-list.png "应用列表")
+![应用列表](/assets/img/c-1.5-appstore-list.png "应用列表")
 
 
 3. 填写应用基本信息。
-![应用基本信息](/src/assets/img/c-1.5-appstore-create-add.png "应用基本信息")
+![应用基本信息](/assets/img/c-1.5-appstore-create-add.png "应用基本信息")
 
 
 ## 管理应用
 1. 找到要管理的应用，点击管理，进入应用详情页面。
-![应用信息管理](/src/assets/img/c-1.5-appstore-list-manage.png "应用信息管理")
+![应用信息管理](/assets/img/c-1.5-appstore-list-manage.png "应用信息管理")
 
 
 2. 进入页面后，根据相关需求对应用进行配置。
@@ -23,18 +23,18 @@
 ## 应用配置
 每个应用都有一些相同的配置，在应用配置中进行管理。
 
-![应用配置](/src/assets/img/c-1.5-appstore-list-manage-base.png "应用配置")
+![应用配置](/assets/img/c-1.5-appstore-list-manage-base.png "应用配置")
 
 ## 协议配置
 每个应用都有一些差异化的协议配置，在协议配置中进行个性化路径、端点、访问模式进行管理。
 
-![协议配置](/src/assets/img/c-1.5-appstore-list-manage-protocol.png "协议配置")
+![协议配置](/assets/img/c-1.5-appstore-list-manage-protocol.png "协议配置")
 
 ## 访问授权
 #### 添加授权
 1. 点击添加授权按钮，添加授权信息，可支持添加三种授权类型。
 
-![访问授权](/src/assets/img/c-1.5-appstore-list-manage-access.png  "访问授权")
+![访问授权](/assets/img/c-1.5-appstore-list-manage-access.png  "访问授权")
 
 | 授权类型 | 说明 |
 |:-|:-|

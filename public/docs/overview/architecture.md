@@ -1,6 +1,6 @@
 # 系统架构
 
-![系统整体架构](/src/assets/img/overview-whole-architecture.png "系统整体架构")
+![系统整体架构](/assets/img/overview-whole-architecture.png "系统整体架构")
 
 ## 基于成熟的技术栈
 - Java 编程语言：EMIS 服务端采用 Java 编程语言编写，这是一种广泛应用于企业级开发的编程语言，具有以下优势：
@@ -53,7 +53,7 @@ EMIS 支持 OAuth 2.0、OpenID Connect（OIDC）、SAML、CAS 等国际标准协
 - __稳定性保障：__ Spring 生态经过长期验证，能够提供企业级的可靠性和安全性。
 - __维护便捷：__ 通过借助 Spring 社区的广泛支持，EMIS 可以快速迭代、修复漏洞并升级到最新的技术版本。
 
-![系统技术架构](/src/assets/img/overview-technical-architecture.png "系统技术架构")
+![系统技术架构](/assets/img/overview-technical-architecture.png "系统技术架构")
 
 ## 面向未来的架构设计
 EMIS 的架构设计不仅基于当前的技术最佳实践，还充分考虑了未来扩展的需求。其基于 Spring 生态和 Java 编程语言的架构具备以下特性：

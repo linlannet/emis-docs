@@ -6,11 +6,11 @@
 ## 忘记密码
 1、进入登录页面后点击忘记密码按钮。
 
-![忘记密码](/src/assets/img/p-1.0-login-forgot-password.png "忘记密码")
+![忘记密码](/assets/img/p-1.0-login-forgot-password.png "忘记密码")
 
 2、在重置密码前，需要进行身份验证，填写手机号码或邮箱进行验证。
 
-![重置密码](/src/assets/img/p-1.0-login-reset-password.png "重置密码")
+![重置密码](/assets/img/p-1.0-login-reset-password.png "重置密码")
 
 3、身份验证通过后，通过该页面设置新密码完成重置。
 

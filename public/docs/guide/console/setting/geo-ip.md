@@ -6,11 +6,11 @@
 ## 系统默认
 EMIS系统默认使用内置ip2region数据库识别用户IP地址的地理位置。
 
-![IP地理库系统默认](/src/assets/img/c-1.8-setting-ip-default.png "IP地理库系统默认")
+![IP地理库系统默认](/assets/img/c-1.8-setting-ip-default.png "IP地理库系统默认")
 
 ## MaxMind
 
-![IP地理库Maxmind](/src/assets/img/c-1.8-setting-ip-maxmind.png "IP地理库Maxmind")
+![IP地理库Maxmind](/assets/img/c-1.8-setting-ip-maxmind.png "IP地理库Maxmind")
 
 1. 注册 MaxMind 官网账号 https://www.maxmind.com
 

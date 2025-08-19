@@ -4,7 +4,7 @@
 ## 基础设置
 管理员进入基础设置里，对用户并发数、会话、验证码策略进行配置。
 
-![通用安全基础设置](/src/assets/img/c-1.7-security-base-info.png "通用安全基础设置")
+![通用安全基础设置](/assets/img/c-1.7-security-base-info.png "通用安全基础设置")
 
 
 |参数	|说明|
@@ -16,7 +16,7 @@
 ## 防御策略
 在防御策略中目前可以设置登录策略和内容安全策略，旨在防止跨站脚本攻击（XSS 攻击）和其他类似的安全漏洞。
 
-![通用安全防御策略](/src/assets/img/c-1.7-security-crsf-info.png "通用安全防御策略")
+![通用安全防御策略](/assets/img/c-1.7-security-crsf-info.png "通用安全防御策略")
 
 
 |参数	|说明|

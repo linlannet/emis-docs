@@ -4,5 +4,5 @@
 ## 账号密码登录
 1. 用户根据输入框提示填写账号和密码，然后点击登录。
 
-![控制台登录](/src/assets/img/c-1.0-console-login.png "控制台登录")
+![控制台登录](/assets/img/c-1.0-console-login.png "控制台登录")
 

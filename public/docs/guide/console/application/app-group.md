@@ -3,7 +3,7 @@
 1. 以管理员账号登录 EMIS 管理控制台。
 
 2. 在左侧导航栏，单击应用管理 > 应用分组。
-![应用组](/src/assets/img/c-1.5-appstore-group.png "应用组")
+![应用组](/assets/img/c-1.5-appstore-group.png "应用组")
 
 
 

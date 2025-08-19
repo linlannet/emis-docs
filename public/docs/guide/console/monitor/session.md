@@ -3,7 +3,7 @@
 
 ## 会话列表
 管理员登录 EMIS 多身份集成系统，在左侧导航栏，选择会话管理，进入会话列表。
-![会话列表](/src/assets/img/c-1.9-monitor-session.png "会话列表")
+![会话列表](/assets/img/c-1.9-monitor-session.png "会话列表")
 
 
 ## 下线会话

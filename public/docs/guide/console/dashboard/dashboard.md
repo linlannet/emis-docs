@@ -5,5 +5,5 @@
 
 ## 总览
 
-![总览](/src/assets/img/c-1.2-dashboard.png "总览")
+![总览](/assets/img/c-1.2-dashboard.png "总览")
 

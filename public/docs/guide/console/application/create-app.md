@@ -6,15 +6,15 @@
 
 在左侧导航栏，单击应用管理 > 创建应用，搜索您希望接入的单点登录协议。
 
-![创建应用](/src/assets/img/c-1.5-appstore-create-list.png "创建应用")
+![创建应用](/assets/img/c-1.5-appstore-create-list.png "创建应用")
 
 
 ## 添加应用
 1. 选择应用所支持的协议或应用模板。
-![创建应用](/src/assets/img/c-1.5-appstore-create-add.png "创建应用")
+![创建应用](/assets/img/c-1.5-appstore-create-add.png "创建应用")
 
 
 2. 完善应用信息，点击确认完成添加。以CAS协议的应用为例。
-![应用配置](/src/assets/img/c-1.5-appstore-list-manage-base.png "应用配置")
-![协议配置](/src/assets/img/c-1.5-appstore-list-manage-protocol.png "协议配置")
-![访问授权](/src/assets/img/c-1.5-appstore-list-manage-access.png  "访问授权")
+![应用配置](/assets/img/c-1.5-appstore-list-manage-base.png "应用配置")
+![协议配置](/assets/img/c-1.5-appstore-list-manage-protocol.png "协议配置")
+![访问授权](/assets/img/c-1.5-appstore-list-manage-access.png  "访问授权")

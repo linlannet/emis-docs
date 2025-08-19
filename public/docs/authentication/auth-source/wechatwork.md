@@ -1,7 +1,7 @@
 # 企微认证
 EMIS 支持政府、事业单位、企业等组织机构以多种认证源渠道登录至 EMIS 平台，本节将介绍如何在 EMIS 平台中配置企业微信扫码认证
 
-![企业微信企业认证源](/src/assets/img/authentication-ent-list.png "企业微信企业认证源")
+![企业微信企业认证源](/assets/img/authentication-ent-list.png "企业微信企业认证源")
 
 ## 在企微管理后台上创建应用
 在企业微信开放平台上创建应用，并通过配置 EMIS 的授权信息，可以建立企业微信对 EMIS 的信任。
@@ -38,6 +38,6 @@ EMIS 支持政府、事业单位、企业等组织机构以多种认证源渠道
 |备注	|认证源备注信息|
 
 
-![企业微信企业认证源配置](/src/assets/img/authentication-ent-wechatwork.png "企业微信企业认证源配置")
+![企业微信企业认证源配置](/assets/img/authentication-ent-wechatwork.png "企业微信企业认证源配置")
 
 

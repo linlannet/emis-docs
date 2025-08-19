@@ -6,12 +6,12 @@
 ## 控制台
 1、登录成功后即进入管理控制台。
 
-![管理控制台](/src/assets/img/c-1.1-workspace.png "管理控制台")
+![管理控制台](/assets/img/c-1.1-workspace.png "管理控制台")
 
 2、点击个人用户名图标，可进入个人中心和退出登录。 个人中心内可查看个人基本信息和安全设置信息。
-![个人中心基本信息](/src/assets/img/c-1.0-console-profile-base.png "个人中心基本信息")
-![个人中心安全设置](/src/assets/img/c-1.0-console-profile-base.png "个人中心安全设置")
+![个人中心基本信息](/assets/img/c-1.0-console-profile-base.png "个人中心基本信息")
+![个人中心安全设置](/assets/img/c-1.0-console-profile-base.png "个人中心安全设置")
 
 3、点击头部个人用户名左边的版本信息入口，查看当前管理控制台版本。
 
-![版本信息](/src/assets/img/c-1.0-version.png "版本信息")
+![版本信息](/assets/img/c-1.0-version.png "版本信息")

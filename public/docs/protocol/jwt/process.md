@@ -4,12 +4,12 @@
 
 2. 前往 应用管理-添加应用-标准协议，点击 JWT 模板。
 
-![JWT模板](/src/assets/img/protocol-jwt-template.png "JWT模板")
+![JWT模板](/assets/img/protocol-jwt-template.png "JWT模板")
 
 
 3. 确认应用名称，即可完成添加。
 
-![静安人才JWT](/src/assets/img/protocol-jwt-add.png "静安人才JWT")
+![静安人才JWT](/assets/img/protocol-jwt-add.png "静安人才JWT")
 
 
 4. 添加成功后，点击完善配置，进入应用管理页面完善配置
@@ -24,7 +24,7 @@
 |IDP SSO地址	|应用发起单点登录的地址。|
 |JWT 验签
 
-![JWT应用配置](/src/assets/img/protocol-jwt-appconfig.png "JWT应用配置")
+![JWT应用配置](/assets/img/protocol-jwt-appconfig.png "JWT应用配置")
 
 ## 协议配置
 
@@ -41,16 +41,16 @@
 |授权范围	|是	|规范应用的可使用人群范围 ，全员访问： 在 EMIS 中的所有账户，均可访问该应用，无需额外授权。 手动授权： 需要在应用的 【访问授权】 标签中，手动分配可访问应用的组织和账户。|
 
 
-![JWT协议配置](/src/assets/img/protocol-jwt-protocol.png "JWT协议配置")
+![JWT协议配置](/assets/img/protocol-jwt-protocol.png "JWT协议配置")
 
 ## 账户配置信息
 
-![JWT应用账户选择](/src/assets/img/protocol-jwt-account-add.png "JWT应用账户选择")
+![JWT应用账户选择](/assets/img/protocol-jwt-account-add.png "JWT应用账户选择")
 
-![JWT应用账户](/src/assets/img/protocol-jwt-account-finish.png "JWT应用账户")
+![JWT应用账户](/assets/img/protocol-jwt-account-finish.png "JWT应用账户")
 
 ## 访问授权信息
 
-![JWT访问授权选择](/src/assets/img/protocol-jwt-access-select.png "JWT访问授权选择")
+![JWT访问授权选择](/assets/img/protocol-jwt-access-select.png "JWT访问授权选择")
 
-![JWT访问授权](/src/assets/img/protocol-jwt-access-finish.png "JWT访问授权")
+![JWT访问授权](/assets/img/protocol-jwt-access-finish.png "JWT访问授权")

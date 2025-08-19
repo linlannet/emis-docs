@@ -4,17 +4,17 @@
 # 邮件模版
 
 邮件模板为系统固定类型，且都有默认模板内容，如需自定配置邮件内容则配置对应模板的相应内容
-![消息设置邮件模板](/src/assets/img/c-1.8-setting-mail-template.png "消息设置邮件模板")
+![消息设置邮件模板](/assets/img/c-1.8-setting-mail-template.png "消息设置邮件模板")
 
 
 
 可以使用模版内置参数个性化配置发送主题与发送内容，支持 html
-![邮件模板设置](/src/assets/img/c-1.8-setting-mail-template-config.png "邮件模板设置")
+![邮件模板设置](/assets/img/c-1.8-setting-mail-template-config.png "邮件模板设置")
 
 ## 邮件服务
 管理员对邮件提供商和邮件模板进行配置，用来发送系统消息。目前支持阿里云，腾讯云，网易企业邮
 
-![邮件服务商](/src/assets/img/c-1.8-setting-mail-provider.png "邮件服务商")
+![邮件服务商](/assets/img/c-1.8-setting-mail-provider.png "邮件服务商")
 
 
 ## 邮件提供商配置
@@ -26,13 +26,13 @@
 |用户名	|邮件发送者用户名|
 |密码	|邮件发送者密码|
 
-![邮件服务商设置](/src/assets/img/c-1.8-setting-mail-provider-config.png "邮件服务商设置")
+![邮件服务商设置](/assets/img/c-1.8-setting-mail-provider-config.png "邮件服务商设置")
 
 
 ## 短信服务
 管理员对短信提供商和模板进行配置，并设置模板对应 ID 或 CODE，短信服务目前支持阿里云，七牛云，腾讯云
 
-![短信服务商](/src/assets/img/c-1.8-setting-sms-provider.png "短信服务商")
+![短信服务商](/assets/img/c-1.8-setting-sms-provider.png "短信服务商")
 
 ### 阿里云
 
@@ -43,7 +43,7 @@
 |AccessKey Secret	|您的 AccessKey Secret|
 |短信签名	|设置的短信签名 添加签名|
 
-![短信服务商设置](/src/assets/img/c-1.8-setting-sms-config.png "短信服务商设置")
+![短信服务商设置](/assets/img/c-1.8-setting-sms-config.png "短信服务商设置")
 
 ### 腾讯云
 

@@ -1,7 +1,7 @@
 # 飞书认证
 EMIS 支持政府、事业单位、企业等组织机构以多种认证源渠道登录至 EMIS 平台，本节将介绍如何在 EMIS 平台中配置飞书登录认证
 
-![飞书企业认证源](/src/assets/img/authentication-ent-list.png "飞书企业认证源")
+![飞书企业认证源](/assets/img/authentication-ent-list.png "飞书企业认证源")
 
 ## 创建飞书应用
 在飞书开放平台中创建应用并配置参数，确保飞书中的数据可同步至EMIS系统。
@@ -27,6 +27,6 @@ EMIS 支持政府、事业单位、企业等组织机构以多种认证源渠道
 |备注	|认证源备注信息|
 点击确定后创建飞书认证源，显示回调地址
 
-![飞书企业认证源配置](/src/assets/img/authentication-ent-feishu.png "飞书企业认证源配置")
+![飞书企业认证源配置](/assets/img/authentication-ent-feishu.png "飞书企业认证源配置")
 
 

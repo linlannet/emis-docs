@@ -4,14 +4,14 @@
 ## 账号密码登录
 1. 用户根据输入框提示填写账号和密码，然后点击登录。
 
-![门户用户名密码登录](/src/assets/img/p-1.0-login-username-password.png "门户用户名密码登录")
+![门户用户名密码登录](/assets/img/p-1.0-login-username-password.png "门户用户名密码登录")
 
 ## 手机、邮箱验证码登录
 1. 用户根据输入框提示输入手机号或邮箱，点击立即获取验证码填写您手机短信或邮箱所收到的验证码，点击登录完成登录。 
 
-![门户手机号验证码登录](/src/assets/img/p-1.0-login-mobile-code.png "门户手机号验证码登录")
+![门户手机号验证码登录](/assets/img/p-1.0-login-mobile-code.png "门户手机号验证码登录")
 
 ## 其他登录方式
 1. 用户选择以下登录方式进行登录，并绑定账号。
 
-![门户身份源授权登录](/src/assets/img/p-1.0-login-from-identity-source.png "门户身份源授权登录")
+![门户身份源授权登录](/assets/img/p-1.0-login-from-identity-source.png "门户身份源授权登录")

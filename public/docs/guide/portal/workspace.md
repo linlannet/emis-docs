@@ -6,12 +6,12 @@
 ## 工作台
 1、登录成功后即进入门户工作台。
 
-![门户工作台](/src/assets/img/p-1.0-workspace.png "门户工作台")
+![门户工作台](/assets/img/p-1.0-workspace.png "门户工作台")
 
 2、点击个人用户名图标，可进入个人中心和退出登录。
 
-![个人中心](/src/assets/img/p-1.0-user-profile.png "个人中心")
+![个人中心](/assets/img/p-1.0-user-profile.png "个人中心")
 
 3、点击头部个人用户名左边的版本信息入口，查看当前门户平台版本。
 
-![版本信息](/src/assets/img/p-1.0-version.png "版本信息")
+![版本信息](/assets/img/p-1.0-version.png "版本信息")
