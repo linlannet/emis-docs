@@ -40,20 +40,20 @@ git clone https://gitee.com/linlannet/emis-docs.git
 ```bash
 cd emis-docs
 
-pnpm install
+npm install
 
 ```
 
 - 调试运行
 
 ```bash
-pnpm run dev
+npm run dev
 ```
 
 - 打包发布
 
 ```bash
-pnpm build
+npm build
 ```
 
 ## 参与贡献

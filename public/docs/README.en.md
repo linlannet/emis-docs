@@ -75,5 +75,5 @@ You are very welcome to join！[Raise an issue](https://gitee.com/linlannet/emis
 
 ## License
 
-[Apache 2.0 © emis-docs 2023](./LICENSE)
+[Apache 2.0 © emis-docs 2023](LICENSE)
 
