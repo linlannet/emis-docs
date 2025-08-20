@@ -14,7 +14,7 @@ const id = 'preview-only';
 const content = ref('# Hello Editor');
 const scrollElement = document.documentElement;
 const getMdContent = (url) => {
-    fetch(url)
+    fetch(window.baseUrl + url)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');

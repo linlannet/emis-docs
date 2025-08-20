@@ -2,15 +2,15 @@
 import { ref } from 'vue'
 import mdPreview from './components/mdPreview.vue'
 import menuIndex from './components/menu/index.vue'
-const mdUrl = ref('./docs/overview/introduction.md')
+const mdUrl = ref('/docs/overview/introduction.md')
 const menuClick = (data)=>{
   if(data.url){
     mdUrl.value = data.url
   }
 }
-if(location.pathname != '/'){
-  mdUrl.value = location.pathname
-}
+// if(location.pathname != '/'){
+//   mdUrl.value = location.pathname
+// }
 </script>
 
 <template>
