@@ -9,7 +9,6 @@ interface Tree {
 }
 const emits = defineEmits(['menuClick'])
 const handleNodeClick = (data: Tree) => {
-  console.log(data)
   emits('menuClick', data)
 }
 
@@ -64,6 +63,19 @@ const data: Tree[] = [
         }, {
           label: '总览',
           url: '/docs/guide/console/workspace.md'
+        }, {
+          label: '账户管理',
+          url: '/docs/guide/console/account',
+          children: [{
+            label: '组织及用户',
+            url: '/docs/guide/console/account/user.md'
+          }, {
+            label: '用户组管理',
+            url: '/docs/guide/console/account/user-group.md'
+          }, {
+            label: '身份源管理',
+            url: '/docs/guide/console/account/identity-source.md'
+          }]
         }]
       },
       {
