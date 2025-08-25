@@ -7,7 +7,7 @@ EMIS (Enterprise Multiple Identity System) User Guide Document Engineering
 
 ## Change Log
 
-[CHANGELOG](./CHANGELOG.md)
+[CHANGELOG](CHANGELOG.md)
 
 ## Features
 

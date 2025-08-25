@@ -76,22 +76,5 @@
         * [支付宝社交认证源](/docs/authentication/auth-source/alipay.md)
     * [form表单代填](/docs/authentication/form)
 * [用户案例](/docs/use-cases/README.md)
-
-
-## 开发者文档 <a href="#developer-manual" id="developer-manual"></a>
-
 * [SDK 集成](/docs/sdk/README.md)
-
-## 常见问题与解决 <a href="#product-faq" id="product-faq"></a>
-
-* [基本问题](product-faq/basic.md)
-* [SDK集成](product-faq/sdk.md)
-* [圈选问题](product-faq/quanxuan.md)
-* [指标和维度](product-faq/metrics.md)
-* [数据安全](product-faq/data-security.md)
-* [产品使用](product-faq/produceuse.md)
-* [数据统计差异](product-faq/diffinfo.md)
-* [如何刪除不要的項目？](product-faq/delete-project.md)
-* [为何收不到GIO的邮件？](product-faq/wei-he-shou-bu-dao-gio-de-you-jian.md)
-* [无效指标清理说明](product-faq/cleandata.md)
-* [产品维护计划通告](product-faq/chan-pin-wei-hu-ji-hua-tong-gao.md)
+* [常见问题与解决](/docs/faq/README.md)

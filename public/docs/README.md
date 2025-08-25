@@ -7,7 +7,7 @@ EMIS 多身份管理系统使用指南文档工程
 
 ## 修改历史记录
 
-[CHANGELOG](./CHANGELOG.md)
+[CHANGELOG](CHANGELOG.md)
 
 
 
