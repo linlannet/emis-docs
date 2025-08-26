@@ -1,5 +1,6 @@
 <script setup>
 import { ref } from 'vue'
+import { data } from './me'
 import mdPreview from './components/mdPreview.vue'
 import menuIndex from './components/menu/index.vue'
 const mdUrl = ref('/docs/overview/introduction.md')
@@ -8,9 +9,9 @@ const menuClick = (data)=>{
     mdUrl.value = data.url
   }
 }
-// if(location.pathname != '/'){
-//   mdUrl.value = location.pathname
-// }
+if(location.pathname != '/emis/docs/'){
+  mdUrl.value = (location.pathname + ".md").replace('/emis/','')
+}
 </script>
 
 <template>
