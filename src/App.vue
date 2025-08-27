@@ -1,26 +1,20 @@
 <script setup>
 import { ref } from 'vue'
-import { data } from './me'
 import mdPreview from './components/mdPreview.vue'
 import menuIndex from './components/menu/index.vue'
-const mdUrl = ref('/docs/overview/introduction.md')
-const menuClick = (data)=>{
-  if(data.url){
-    mdUrl.value = data.url
-  }
-}
-if(location.pathname != '/emis/docs/'){
-  mdUrl.value = (location.pathname + ".md").replace('/emis/','')
+const mdContent = ref('')
+const menuContent = (data)=>{
+  mdContent.value = data
 }
 </script>
 
 <template>
   <section class="mainboard">
     <section class="menu">
-      <menuIndex @menuClick="menuClick"></menuIndex>
+      <menuIndex @menuContent="menuContent"></menuIndex>
     </section>
     <section class="content">
-      <mdPreview :mdUrl="mdUrl" />
+      <mdPreview :mdContent="mdContent" />
     </section>
   </section>
 
@@ -40,6 +34,7 @@ if(location.pathname != '/emis/docs/'){
     height: 100%;
     left: 0;
     top: 0;
+    background: #fefefe;
   }
 
   .content {

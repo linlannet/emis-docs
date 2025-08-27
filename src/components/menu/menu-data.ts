@@ -51,7 +51,7 @@ const data = [
           url: '/docs/guide/console/workspace.md'
         }, {
           label: '账户管理',
-          url: '/docs/guide/console/account',
+          url: '/docs/guide/console/account/',
           children: [{
             label: '组织及用户',
             url: '/docs/guide/console/account/user.md'
@@ -64,14 +64,14 @@ const data = [
           }]
         }, {
           label: '认证管理',
-          url: '/docs/guide/console/authentication',
+          url: '/docs/guide/console/authentication/',
           children: [{
             label: '身份提供商',
             url: '/docs/guide/console/authentication/identity-provider.md'
           }]
         }, {
           label: '应用管理',
-          url: '/docs/guide/console/application',
+          url: '/docs/guide/console/application/',
           children: [{
             label: '创建应用',
             url: '/docs/guide/console/application/create-app.md'
@@ -84,7 +84,7 @@ const data = [
           }]
         }, {
           label: '行为审计',
-          url: '/docs/guide/console/audit',
+          url: '/docs/guide/console/audit/',
           children: [{
             label: '控制台管理员行为',
             url: '/docs/guide/console/audit/audit.md'
@@ -94,7 +94,7 @@ const data = [
           }]
         }, {
           label: '安全设置',
-          url: '/docs/guide/console/security',
+          url: '/docs/guide/console/security/',
           children: [{
             label: '通用安全',
             url: '/docs/guide/console/security/general-security.md'
@@ -104,7 +104,7 @@ const data = [
           }]
         }, {
           label: '系统设置',
-          url: '/docs/guide/console/setting',
+          url: '/docs/guide/console/setting/',
           children: [{
             label: '消息设置',
             url: '/docs/guide/console/setting/message.md'
@@ -117,7 +117,7 @@ const data = [
           }]
         }, {
           label: '系统监控',
-          url: '/docs/guide/console/monitor',
+          url: '/docs/guide/console/monitor/',
           children: [{
             label: '会话管理',
             url: '/docs/guide/console/monitor/session.md'
@@ -129,7 +129,7 @@ const data = [
       },
       {
         label: '门户工作台',
-        url: '/docs/guide/portal',
+        url: '/docs/guide/portal/',
         children: [{
           label: '登录',
           url: '/docs/guide/portal/login.md'
@@ -160,7 +160,7 @@ const data = [
     url: '/docs/protocol/README.md',
     children: [{
       label: 'jwt协议',
-      url: '/docs/protocol/jwt',
+      url: '/docs/protocol/jwt/',
       children: [{
         label: '协议概述',
         url: '/docs/protocol/jwt/overview.md'
