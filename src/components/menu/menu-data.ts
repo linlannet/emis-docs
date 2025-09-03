@@ -1,9 +1,5 @@
 const data = [
   {
-    label: "What's new",
-    url: '/docs/README.md',
-  },
-  {
     label: "文档使用指南",
     url: '/docs/allguide.md',
   },
